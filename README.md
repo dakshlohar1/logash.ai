@@ -1,4 +1,4 @@
-# Logash.py
+# Logash.ai
 Remeber to log everything.
 
 ## Description
